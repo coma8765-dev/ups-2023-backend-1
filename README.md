@@ -1,5 +1,5 @@
 # UPS 2023 Backend 1
-*Made by [Nikita Ananev](@coma8765-dev)*
+*Made by [Nikita Ananev](https://github.com/coma8765-dev)*
 
 ## Run with docker
 ```shell
